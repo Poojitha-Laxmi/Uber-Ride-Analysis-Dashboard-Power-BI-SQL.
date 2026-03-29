@@ -23,6 +23,12 @@ Interactive filters (Vehicle Type)
 **Preview**
 <img width="1202" height="703" alt="image" src="https://github.com/user-attachments/assets/f0e30234-934a-4863-ac40-ea12835f42d4" />
 
+**SQL Analysis**
+- Performed SQL-based analysis to identify ride trends, cancellations, and driver performance  
+- Used joins, aggregations, and window functions  
+- SQL queries available in `/sql/uber_analysis.sql`
+
+
 **Key Insights**
 Auto category has highest bookings (~37K)
 High cancellations observed in Go Mini segment
