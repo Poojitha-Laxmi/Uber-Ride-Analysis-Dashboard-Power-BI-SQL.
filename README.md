@@ -25,17 +25,17 @@ Interactive filters (Vehicle Type)
 
 **Key Insights**
 Auto category has highest bookings (~37K)
-Cancellation rate is significant in Go Mini segment
-Premium vehicles have lower demand but better consistency
+High cancellations observed in Go Mini segment
+Premium vehicles show stable but lower demand
 
 **Business Impact**
 Helps identify high-demand vehicle categories
 Improves decision-making for pricing & supply allocation
 
-**Files Included**
-Uber_Dashboard.pbix → Power BI dashboard
-dataset.xlsx → Source data (if added)
-Screenshots for quick preview
+**Project Structure**
+/images → Dashboard screenshots
+Uber_Dashboard.pbix → Power BI dashboard file
+
 **Learnings**
 Built interactive dashboard using slicers
 Improved data storytelling skills
