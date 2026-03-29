@@ -1,4 +1,4 @@
-Uber Ride Analysis Dashboard (Power BI)
+Uber Ride Analysis Dashboard (Power BI, SQL)
 
 **Objective**
 Analyze ride booking trends, cancellations, and vehicle performance to identify key business insights.
